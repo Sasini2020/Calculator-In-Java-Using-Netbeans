@@ -1,18 +1,4 @@
 # Calculator
 
 Calculator In Java Using Netbeans
-
-// method 1
-<img
-src=“images/SubPronouns.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
-
-// method 2
-![Test Image 3](/3DTest.png)
-![Test Image 4](https://github.com/Sasini2020/Calculator-In-Java-Using-Netbeans/images/calc.png)
-
-// last method
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/Sasini2020/Calculator-In-Java-Using-Netbeans/images/calc.png”>
+https://user-images.githubusercontent.com/63692107/103473022-08185400-4dba-11eb-81b0-978267661476.PNG
